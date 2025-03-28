@@ -1,0 +1,2 @@
+# Correct numpy error by downloading numpy<2 version
+# In .venv/Lib/site-packages/torchvision/models/detection/anchor_utils.py change device to CUDA if you have GPU. 
